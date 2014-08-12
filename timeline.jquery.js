@@ -1,6 +1,6 @@
 /*!
  * jQuery Timeline Plugin v0.1
- * URL_PROYECTO
+ * https://github.com/rrussell/timeline
  * Create: 2014/05/09
  * Update: 2014/08/12
  *
