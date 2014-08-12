@@ -1,3 +1,11 @@
+
+#contenido {
+	width:100%;
+	margin:0 auto;
+	padding:0;
+}
+
+/* TIMELINE PLUGIN */
 #titulo, #panel, #timeline {
 	font-family:tahoma;
 	width:100%;
